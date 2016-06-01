@@ -8,6 +8,6 @@ Another paragraph
 
 | Heading | Heading | Heading |  
 |---------|:-------:|--------:|
-| One | Two  | Three |
+| One | Two  | Test |
 | One | Two  | Three |
 | One | Two  | Three |
