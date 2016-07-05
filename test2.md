@@ -2,8 +2,7 @@
 Some paragraph  
   
 Another paragraph  
-
-> Note  
+ 
 > Note
 
 | Heading | Heading | Heading |  
